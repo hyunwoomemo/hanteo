@@ -10,3 +10,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 - framer motion
 - styled-components
+
+## 배포
+
+vercel [https://hanteo-seven.vercel.app/]
